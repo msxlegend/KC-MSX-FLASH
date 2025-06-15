@@ -2,7 +2,7 @@
 KC MSX FLASH pcb for Overich konami case
 
 > [!WARNING]
-> /!\ be carefull, not tested !!
+> This new PCB has not been tested yet !!
 
 Link
 =====
