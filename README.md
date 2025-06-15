@@ -1,6 +1,8 @@
 # KC-MSX-FLASH
 KC MSX FLASH pcb for Overich konami case
-/!\ be carefull, not tested !!
+
+> [!WARNING]
+> /!\ be carefull, not tested !!
 
 Link
 =====
