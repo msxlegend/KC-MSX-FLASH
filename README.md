@@ -2,7 +2,7 @@
 KC MSX FLASH pcb for Overich konami case
 
 > [!WARNING]
-> This new PCB has not been tested yet !!
+> On the previous version, I forgot to solder A12 to PE12 on the slim dev board. this new version has been tested and works fine now ! 
 
 Link
 =====
