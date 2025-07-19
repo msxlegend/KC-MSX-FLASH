@@ -15,7 +15,7 @@ Material:
 
 You need a cheap STM32F407 board. Make a sd card with FAT32 partition 1 or 2 meg, no more
 
-For a better compatibility, hold the "CTRL" key at start to load DSK files
+For a better compatibility, hold the "CTRL" key at start to load DSK files (only if you have the RomDisk)
 
 Overrich case:
 follow the mail to contact overrich
