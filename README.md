@@ -20,3 +20,14 @@ For a better compatibility, hold the "CTRL" key at start to load DSK files (only
 Overrich case:
 follow the mail to contact overrich
 https://www.msx.org/wiki/Category:Overrich
+
+
+IMPORTANT:
+=====
+
+The provided information,
+software or hardware must not be used for commercial purposes unless permitted by MSXLegend (About the PCB). Producing a small amount of bare boards for
+personal projects and selling the rest of the batch is allowed without my permission.
+
+When the sources of the tools are used to create alternative projects, please always mention the original source and the copyright! 
+https://github.com/kernelcrash/msx-rom-and-floppy-emulator
